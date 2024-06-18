@@ -1,4 +1,4 @@
-package com.example.gateway;
+package kz.pet.eon;
 
 import org.springdoc.core.GroupedOpenApi;
 import org.springframework.beans.factory.annotation.Autowired;
